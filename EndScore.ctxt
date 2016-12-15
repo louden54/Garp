@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EndScore
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EndScore\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=EndScore()
+comment2.params=
+comment2.target=java.lang.String\ getElapsedTime()
+comment3.params=score
+comment3.target=void\ setEndImage(int)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\r\n\ Act\ -\ do\ whatever\ the\ EndScore\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5
